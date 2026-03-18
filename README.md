@@ -1,7 +1,7 @@
 # Relaio — After-Sales Automation for Financial Advisors
 
 <p align="center">
-  <img src="docs/screenshots/waitlist-screenshot.png" alt="Relaio Landing Page" width="700" />
+  <img src="docs/screenshots/dashboard-screenshot.png" alt="Relaio Dashboard" width="700" />
 </p>
 
 **Relaio** automates the entire existing-customer care process for insurance brokers and small financial advisory firms in Germany. Birthday greetings, holiday cards, service appointment reminders, referral campaigns, review collection, and cross-selling surveys — all on autopilot.
