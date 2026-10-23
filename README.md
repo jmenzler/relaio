@@ -75,6 +75,7 @@ flowchart LR
 | Database | Supabase Postgres with RLS | Tenant isolation enforced below the application |
 | Email | Resend, Svix | Delivery webhooks with signature verification |
 | AI | Claude Haiku | One narrow rewrite per email, not an agent |
+| Hosting | Vercel (frontend), Docker + Caddy (backend) | Managed Next.js hosting; backend container with automatic TLS |
 | CI | GitHub Actions: ruff, pytest, eslint, tsc, build | Lint, types and tests on every change |
 
 ---
