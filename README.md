@@ -1,10 +1,23 @@
+<div align="center">
+
 # Relaio
+
+**After-sales email for insurance brokers, approved by the broker before anything is sent.**
+
+![case study: code private](https://img.shields.io/badge/case%20study-code%20private-6e7781)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Supabase: RLS](https://img.shields.io/badge/Supabase-RLS-3FCF8E?logo=supabase&logoColor=white)
+![Claude: Haiku](https://img.shields.io/badge/Claude-Haiku-D97757?logo=claude&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+[The problem](#the-problem) · [Design decisions](#design-decisions) · [Architecture](#architecture) · [Features](#features) · [Stack](#stack)
+
+</div>
 
 After-sales email automation for German insurance brokers: birthday and holiday mails, service reminders, referral and review requests and multi-step sequences, with consent tracking built in and every email approved by the broker before it goes out.
 
 Solo project: frontend, backend, database and deployment.
-
-**Tech:** Python · FastAPI · Next.js · TypeScript · PostgreSQL (Supabase, RLS) · Claude Haiku · Docker + Caddy
 
 > [!NOTE]
 > The implementation is private. This repository is a case study: design decisions, architecture and screenshots.
