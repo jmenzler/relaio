@@ -9,10 +9,6 @@ Solo project: frontend, backend, database and deployment.
 > [!NOTE]
 > The implementation is private. This repository is a case study: design decisions, architecture and screenshots.
 
-<p align="center">
-  <img src="docs/screenshots/dashboard-screenshot.png" alt="Relaio dashboard" width="700" />
-</p>
-
 ## The problem
 
 Solo brokers and small firms look after hundreds of existing customers. Staying in touch, asking for referrals and collecting reviews keeps those customers, but by hand it takes hours every week, so most brokers skip it. In Germany every automated email also needs provable consent.
@@ -27,6 +23,10 @@ Solo brokers and small firms look after hundreds of existing customers. Staying 
 | **Compliance as design.** Double opt-in with an audit trail, one-click unsubscribe, blacklist enforcement, EU-region database | Consent is checked before every send, not bolted on |
 | **Delivery state from webhooks.** Resend events verified with Svix update each email's status | Sent, delivered, opened, clicked and bounced come from the provider, not guesses |
 | **Sequences as data.** Send, wait, condition, follow-up steps with per-customer enrollment and pause/resume | Brokers build flows without code |
+
+<p align="center">
+  <img src="docs/screenshots/dashboard-screenshot.png" alt="Relaio dashboard" width="700" />
+</p>
 
 ## Architecture
 
