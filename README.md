@@ -6,6 +6,7 @@
 
 ![case study: code private](https://img.shields.io/badge/case%20study-code%20private-6e7781)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Supabase: RLS](https://img.shields.io/badge/Supabase-RLS-3FCF8E?logo=supabase&logoColor=white)
 ![Claude: Haiku](https://img.shields.io/badge/Claude-Haiku-D97757?logo=claude&logoColor=white)
