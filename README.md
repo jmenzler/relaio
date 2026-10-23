@@ -60,8 +60,8 @@ flowchart LR
 | Backend | FastAPI, Pydantic v2 | Typed API and validation |
 | Database | Supabase Postgres with RLS | Tenant isolation enforced below the application |
 | Email | Resend, Svix | Delivery webhooks with signature verification |
-| AI | Claude Haiku | Cheap, fast single-purpose rewrite |
-| CI | GitHub Actions: ruff, mypy, pytest, eslint, tsc | Lint, types and tests on every change |
+| AI | Claude Haiku | One narrow rewrite per email, not an agent |
+| CI | GitHub Actions: ruff, pytest, eslint, tsc, build | Lint, types and tests on every change |
 
 ---
 
